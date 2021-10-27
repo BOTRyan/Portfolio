@@ -1,0 +1,12 @@
+Particles + SFX:
+-Wind
+-Death
+-Shooting
+-Bullet Collisions
+-Breaking Walls
+
+Death Variants:
+1:dying.wav + death01.wav (scream and run then explode)
+1:dying.wav + death02.wav (scream and run then explode)
+2:death01 (explode)
+3:death02 (explode)
